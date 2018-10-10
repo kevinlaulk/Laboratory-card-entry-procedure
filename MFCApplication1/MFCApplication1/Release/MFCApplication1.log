@@ -1,0 +1,31 @@
+﻿生成启动时间为 2018/9/20 星期四 17:07:15。
+     1>项目“D:\users\Desktop\研究生\手动特征提取程序\C++\MFCApplication1\MFCApplication1\MFCApplication1.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\MFCApplication1.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\MFCApplication1.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ExcelOperation.cpp MFCApplication1Dlg.cpp
+         ExcelOperation.cpp
+         MFCApplication1Dlg.cpp
+     1>MFCApplication1Dlg.cpp(292): warning C4244: “参数”: 从“double”转换到“long”，可能丢失数据
+     1>MFCApplication1Dlg.cpp(306): warning C4244: “参数”: 从“double”转换到“long”，可能丢失数据
+     1>MFCApplication1Dlg.cpp(307): warning C4244: “参数”: 从“double”转换到“long”，可能丢失数据
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MFCApplication1.cpp subDlg.cpp
+         MFCApplication1.cpp
+         subDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /l"0x0804" /IRelease\ /nologo /fo"Release\MFCApplication1.res" MFCApplication1.rc 
+       Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\users\Desktop\研究生\手动特征提取程序\C++\MFCApplication1\Release\MFCApplication1.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\users\Desktop\研究生\手动特征提取程序\C++\MFCApplication1\Release\MFCApplication1.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\users\Desktop\研究生\手动特征提取程序\C++\MFCApplication1\Release\MFCApplication1.lib" /MACHINE:X86 /SAFESEH Release\MFCApplication1.res
+         Release\ExcelOperation.obj
+         Release\MFCApplication1.obj
+         Release\MFCApplication1Dlg.obj
+         Release\stdafx.obj
+         Release\subDlg.obj
+         正在生成代码
+         已完成代码的生成
+         MFCApplication1.vcxproj -> D:\users\Desktop\研究生\手动特征提取程序\C++\MFCApplication1\Release\MFCApplication1.exe
+     1>已完成生成项目“D:\users\Desktop\研究生\手动特征提取程序\C++\MFCApplication1\MFCApplication1\MFCApplication1.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:31.56
